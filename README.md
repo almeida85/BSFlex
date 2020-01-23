@@ -1,4 +1,4 @@
-# Binding sites superposition
+# BSFlex - Binding sites flexibility
 
 This script is part of a study of the induced-fit effect in proteins upon ligand binding. It uses a previously compiled database (BMC Bioinformatics (2007) volume 8, number 310, DOI:10.1186/1471-2105-8-310, and Protein Science (2002), Volume 47, Issue 1, DOI:10.1002/prot.10026), wich stores information about the contacting atoms from proteins residues in the binding site and ligands, from the Protein Data Bank (PDB).
 
