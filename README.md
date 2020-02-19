@@ -7,3 +7,5 @@ The goal of this study is to characterize the flexibility of the residues in bin
 superpose_cluster.py script performs the structural superposition of high identity proteins identified with BLASTIdentityClust.py (repoSeq repository). It reads the database with the information of the residue-ligand contacts, and extract de coordinates of the original contact ("holo" contact) and the theoretical contact ("apo" contact). The reference protein is a protein with a ligand bounded and the rest are ligand-free proteins.
 
 It uses the Bio.PDB modules in the BioPython package.
+
+![BSFlex pipeline](https://github.com/almeida85/BSFlex/blob/master/BSFlex_pipeline.png)
